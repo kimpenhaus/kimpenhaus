@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Metrics
 on:
   schedule:
     - cron: 0 1 * * *
@@ -16,6 +16,10 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: github
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
