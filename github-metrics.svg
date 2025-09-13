@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1318" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1798" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1281,6 +1281,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1302,7 +1307,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>music-assistant/support</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Music Assistant issue tracker</div>
@@ -1324,7 +1329,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        2.13k
+                                        2.14k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1343,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>music-assistant/server</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.</div>
@@ -1364,7 +1369,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        836
+                                        837
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1396,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>searxng/searxng</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.</div>
@@ -1417,7 +1422,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        21.7k
+                                        21.8k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1449,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ITSpecialist111/Automation-Inspector</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant Automation Inspector</div>
@@ -1504,37 +1509,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">music-assistant/support</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">kimpenhaus/dotnet-operator-sdk</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">music-assistant/server</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">searxng/searxng</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">result-pattern</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84d97ef</div>
+                                        <div class="message">test(finalizer): update and expand unit tests for entity finalizers
+
+- Renamed test cases and entities for improved clarity and consistency.
+- Added new tests for entities with no group values and entities with varying group definitions.
+- Adjusted expected</div>
                                     </div>
                                 </div>
                             </section>
@@ -1553,14 +1543,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">result-pattern</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9dce9df</div>
-                                        <div class="message">feat(queue): add `RequeueType` and enhance requeue handling
+                                        <div class="sha">#e875b83</div>
+                                        <div class="message">feat(finalizer): fix identifier generation and add unit tests
 
-- Introduced `RequeueType` enumeration to specify requeue operation types (`Added`, `Modified`, `Deleted`).
-- Implemented `RequeueTypeExtensions` for mapping `WatchEventType` to `RequeueType`.
-- Updated requeue mechanism to include `RequeueType` in `EntityRequeue` and related methods.
-- Refactored `TimedEntityQueue` and related classes to support `RequeueEntry` containing both the entity and its requeue type.
-- Adjusted tests to incorporate `RequeueType` into entity requeue logic.</div>
+- Updated `EntityFinalizerExtensions` to correctly append "finalizer" when missing from the name.
+- Added unit tests to validate finalizer identifier generation, including cases for length limits and naming consistency.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1569,11 +1556,763 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ITSpecialist111/Automation-Inspector</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">kimpenhaus/dotnet-operator-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">result-pattern</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fda45f2</div>
+                                        <div class="message">refactor(generator): enhance syntax model resolution to support constant values
+
+- Update `KubernetesEntitySyntaxReceiver` to utilize `SemanticModel` for attribute argument resolution, ensuring accurate value retrieval.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#152140 Ecowitt - Setup screen tells user the wrong port to use</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by JimGaluska in <span class="repo">home-assistant/core</span></div>
+                                    <div class="comment">@JimGaluska just an observation:
+on the first screen its port 8124 - on the second its 8123
+might be due to different testings you did - but just from the images that won't fit.
+gl</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 58 commits in
+                                        <span class="repo">kimpenhaus/dotnet-operator-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">omit-max-length-if-not-set</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff35411</div>
+                                        <div class="message">fix(deps): update dependencies (#921)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+| [Microsoft.Extensions.Hosting](https://dot.net/)
+([source](https://redirect.github.com/dotnet/runtime)) | `9.0.6` -&gt;
+`9.0.7` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.Extensions.Hosting/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.Extensions.Hosting/9.0.6/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+| [Microsoft.Extensions.Hosting.Abstractions](https://dot.net/)
+([source](https://redirect.github.com/dotnet/runtime)) | `9.0.6` -&gt;
+`9.0.7` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.Extensions.Hosting.Abstractions/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.Extensions.Hosting.Abstractions/9.0.6/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+|
+[SonarAnalyzer.CSharp](https://redirect.sonarsource.com/doc/sonar-visualstudio.html)
+([source](https://redirect.github.com/SonarSource/sonar-dotnet)) |
+`10.12.0.118525` -&gt; `10.14.0.120626` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/SonarAnalyzer.CSharp/10.14.0.120626?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/SonarAnalyzer.CSharp/10.12.0.118525/10.14.0.120626?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+|
+[System.CommandLine](https://redirect.github.com/deniszykov/commandline)
+| `2.0.0-beta4.22272.1` -&gt; `2.0.0-beta6.25358.103` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/System.CommandLine/2.0.0-beta6.25358.103?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/System.CommandLine/2.0.0-beta4.22272.1/2.0.0-beta6.25358.103?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+| [System.Reflection.MetadataLoadContext](https://dot.net/)
+([source](https://redirect.github.com/dotnet/runtime)) | `9.0.6` -&gt;
+`9.0.7` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/System.Reflection.MetadataLoadContext/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/System.Reflection.MetadataLoadContext/9.0.6/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/runtime (Microsoft.Extensions.Hosting)&lt;/summary&gt;
+
+###
+[`v9.0.7`](https://redirect.github.com/dotnet/runtime/releases/tag/v9.0.7):
+.NET 9.0.7
+
+[Release](https://redirect.github.com/dotnet/core/releases/tag/v9.0.7)
+
+#### What's Changed
+
+- \[release/9.0-staging] Fix crash during Async Break when APC and CET
+are enabled by [@&amp;#8203;thaystg](https://redirect.github.com/thaystg) in
+[https://github.com/dotnet/runtime/pull/114932](https://redirect.github.com/dotnet/runtime/pull/114932)
+- \[release/9.0-staging] \[STJ] Account for F#
+CompilationMappingAttribute now supporting multiple declarations. by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115076](https://redirect.github.com/dotnet/runtime/pull/115076)
+- \[release/9.0-staging]\[wasm]\[interpreter] Fix PackedSimd interpreter
+intrinsics by [@&amp;#8203;lewing](https://redirect.github.com/lewing) in
+[https://github.com/dotnet/runtime/pull/114218](https://redirect.github.com/dotnet/runtime/pull/114218)
+- \[release/9.0-staging] JIT: Fix invalid removal of explicit zeroing in
+methods without .localsinit by
+[@&amp;#8203;jakobbotsch](https://redirect.github.com/jakobbotsch) in
+[https://github.com/dotnet/runtime/pull/115568](https://redirect.github.com/dotnet/runtime/pull/115568)
+- \[release/9.0-staging] throw an exception instead of infinite loop in
+`sort_mark_list` by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115529](https://redirect.github.com/dotnet/runtime/pull/115529)
+- \[release/9.0-staging] \[DNS] Ignore ObjectDisposedException on
+CancellationToken Callback by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115840](https://redirect.github.com/dotnet/runtime/pull/115840)
+- Revert "\[release/9.0-staging] Fix crash during Async Break when APC
+and CET are enabled" by
+[@&amp;#8203;thaystg](https://redirect.github.com/thaystg) in
+[https://github.com/dotnet/runtime/pull/116015](https://redirect.github.com/dotnet/runtime/pull/116015)
+- \[release/9.0-staging] Fix SysV first/second return register GC info
+mismatch by
+[@&amp;#8203;jakobbotsch](https://redirect.github.com/jakobbotsch) in
+[https://github.com/dotnet/runtime/pull/116206](https://redirect.github.com/dotnet/runtime/pull/116206)
+- \[release/9.0-staging] Fix PipeStream leak on Windows when pipe is
+disposed with a pending operation by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/116188](https://redirect.github.com/dotnet/runtime/pull/116188)
+- \[release/9.0] Fix edge cases in Tarjan GC bridge (Android) by
+[@&amp;#8203;filipnavara](https://redirect.github.com/filipnavara) in
+[https://github.com/dotnet/runtime/pull/114682](https://redirect.github.com/dotnet/runtime/pull/114682)
+- \[release/9.0-staging] Revert change to follow symlinks of dotnet host
+by [@&amp;#8203;github-actions](https://redirect.github.com/github-actions)
+in
+[https://github.com/dotnet/runtime/pull/116244](https://redirect.github.com/dotnet/runtime/pull/116244)
+- Update branding to 9.0.7 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/runtime/pull/116312](https://redirect.github.com/dotnet/runtime/pull/116312)
+- \[release/9.0-staging] Fix generation of minidump by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115738](https://redirect.github.com/dotnet/runtime/pull/115738)
+- \[release/9.0-staging] fix: in rsa signatures, configure digest before
+padding mode by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115695](https://redirect.github.com/dotnet/runtime/pull/115695)
+- \[release/9.0-staging] JIT: Fix possible heap corruption in outlined
+composite SSA storage by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/116132](https://redirect.github.com/dotnet/runtime/pull/116132)
+- \[release/9.0-staging] Update dependencies from dotnet/roslyn by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115984](https://redirect.github.com/dotnet/runtime/pull/115984)
+- \[release/9.0-staging] Update dependencies from dotnet/arcade by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115855](https://redirect.github.com/dotnet/runtime/pull/115855)
+- \[release/9.0-staging] Update dependencies from dotnet/icu by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115597](https://redirect.github.com/dotnet/runtime/pull/115597)
+- \[release/9.0-staging] Update dependencies from dotnet/sdk by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115710](https://redirect.github.com/dotnet/runtime/pull/115710)
+- \[release/9.0-staging] Update dependencies from dotnet/cecil by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115504](https://redirect.github.com/dotnet/runtime/pull/115504)
+- \[release/9.0-staging] Update dependencies from dotnet/xharness by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115589](https://redirect.github.com/dotnet/runtime/pull/115589)
+- \[release/9.0] Update dependencies from dotnet/emsdk by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/115537](https://redirect.github.com/dotnet/runtime/pull/115537)
+- Bump SDK version used by WASM since it was broken by dotnet/arcade
+codeflow by [@&amp;#8203;jozkee](https://redirect.github.com/jozkee) in
+[https://github.com/dotnet/runtime/pull/116450](https://redirect.github.com/dotnet/runtime/pull/116450)
+- \[automated] Merge branch 'release/9.0' =&gt; 'release/9.0-staging' by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115576](https://redirect.github.com/dotnet/runtime/pull/115576)
+- \[release/9.0-staging] Link peer's X509 stack handle to parent SSL
+safe handle by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/115380](https://redirect.github.com/dotnet/runtime/pull/115380)
+- \[release/9.0-staging] \[mono]\[interp] Minor SSA fixes by
+[@&amp;#8203;BrzVlad](https://redirect.github.com/BrzVlad) in
+[https://github.com/dotnet/runtime/pull/116428](https://redirect.github.com/dotnet/runtime/pull/116428)
+- \[release/9.0-staging] Update dependencies from dotnet/runtime-assets
+by [@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro)
+in
+[https://github.com/dotnet/runtime/pull/115677](https://redirect.github.com/dotnet/runtime/pull/115677)
+- \[release/9.0-staging] Disable the UTFStringConversionFailures test on
+CI runs by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/116460](https://redirect.github.com/dotnet/runtime/pull/116460)
+- \[manual] Merge release/9.0-staging into release/9.0 by
+[@&amp;#8203;jozkee](https://redirect.github.com/jozkee) in
+[https://github.com/dotnet/runtime/pull/116459](https://redirect.github.com/dotnet/runtime/pull/116459)
+- Merging internal commits for release/9.0 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/runtime/pull/116499](https://redirect.github.com/dotnet/runtime/pull/116499)
+- \[release/9.0] Delete s390x and ppc64le helix queues by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/116537](https://redirect.github.com/dotnet/runtime/pull/116537)
+
+**Full Changelog**:
+https://github.com/dotnet/runtime/compare/v9.0.6...v9.0.7
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;SonarSource/sonar-dotnet (SonarAnalyzer.CSharp)&lt;/summary&gt;
+
+###
+[`v10.14.0.120626`](https://redirect.github.com/SonarSource/sonar-dotnet/releases/tag/10.14.0.120626):
+10.14
+
+[Compare
+Source](https://redirect.github.com/SonarSource/sonar-dotnet/compare/10.13.0.120203...10.14.0.120626)
+
+Hey everyone,
+
+This release mostly focuses on mitigating (NET-2196) a performance
+regression that was introduced in 10.13.
+
+##### Improvement
+
+- [NET-2196](https://sonarsource.atlassian.net/browse/NET-2196) - Fix
+path algorithm for execution flows to mitigate performance regression
+- [NET-2177](https://sonarsource.atlassian.net/browse/NET-2177) -
+Improve how the Symbolic Execution engine handles exception paths
+- [NET-2135](https://sonarsource.atlassian.net/browse/NET-2135) -
+Support xUnit V3
+- [NET-2163](https://sonarsource.atlassian.net/browse/NET-2163) -
+Provide Interface for other plugins to add rules to VB.NET SonarWay
+profile
+
+##### False Negative
+
+- [NET-235](https://sonarsource.atlassian.net/browse/NET-235) - Fix
+S2053: Adjust required salt length to be 32 bytes
+
+##### Task
+
+- [NET-2170](https://sonarsource.atlassian.net/browse/NET-2170) - Update
+RSPEC before 10.14 release
+
+###
+[`v10.13.0.120203`](https://redirect.github.com/SonarSource/sonar-dotnet/releases/tag/10.13.0.120203):
+10.13
+
+[Compare
+Source](https://redirect.github.com/SonarSource/sonar-dotnet/compare/10.12.0.118525...10.13.0.120203)
+
+Hello everyone,
+﻿
+In this release, we've focused on:
+
+- False positive fixes
+- Enhancing S2259's secondary locations to provide clearer, step-by-step
+explanations of null pointer dereferences issues.
+
+##### False Positives
+
+- [NET-2099](https://sonarsource.atlassian.net/browse/NET-2099) - Fix
+S3885 FP: Do not raise in ResolutionEventHandler
+- [NET-2023](https://sonarsource.atlassian.net/browse/NET-2023) - Fix
+S3257 FP: Array with target-typed new
+- [NET-1646](https://sonarsource.atlassian.net/browse/NET-1646) - Fix
+S3267 FP: Loops should be simplified with LINQ expressions
+- [NET-1588](https://sonarsource.atlassian.net/browse/NET-1588) - Fix
+S1066 FP: Combination of `dynamic` and `out` should not raise
+- [NET-882](https://sonarsource.atlassian.net/browse/NET-882) - Fix
+S3257 FP: Don't raise for C# 10 and later when there's explicit delegate
+creation
+
+##### Improvements
+
+- [NET-2095](https://sonarsource.atlassian.net/browse/NET-2095) -
+Improve incremental PR analysis path detection
+- SE: S2259 - Improve secondary locations
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+👻 **Immortal**: This PR will be recreated if closed unmerged. Get
+[config
+help](https://redirect.github.com/renovatebot/renovate/discussions) if
+that's undesired.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/dotnet/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Signed-off-by: Christoph Bühler &lt;christoph.buehler@unisg.ch&gt;
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b2268f</div>
+                                        <div class="message">chore(deps): update dependency xunit.runner.visualstudio to 3.1.3 (#923)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+|
+[xunit.runner.visualstudio](https://redirect.github.com/xunit/visualstudio.xunit)
+| `3.1.2` -&gt; `3.1.3` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/xunit.runner.visualstudio/3.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/xunit.runner.visualstudio/3.1.2/3.1.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;xunit/visualstudio.xunit (xunit.runner.visualstudio)&lt;/summary&gt;
+
+###
+[`v3.1.3`](https://redirect.github.com/xunit/visualstudio.xunit/compare/3.1.2...3.1.3)
+
+[Compare
+Source](https://redirect.github.com/xunit/visualstudio.xunit/compare/3.1.2...3.1.3)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/dotnet/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55ea4a3</div>
+                                        <div class="message">docs: update the project website for nuget packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0e9e48</div>
+                                        <div class="message">fix(deps): update dependency @easyops-cn/docusaurus-search-local to ^0.52.0 (#922)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+|
+[@easyops-cn/docusaurus-search-local](https://redirect.github.com/easyops-cn/docusaurus-search-local)
+([source](https://redirect.github.com/easyops-cn/docusaurus-search-local/tree/HEAD/packages/docusaurus-search-local))
+| [`^0.51.0` -&gt;
+`^0.52.0`](https://renovatebot.com/diffs/npm/@easyops-cn%2fdocusaurus-search-local/0.51.1/0.52.0)
+|
+[![age](https://developer.mend.io/api/mc/badges/age/npm/@easyops-cn%2fdocusaurus-search-local/0.52.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/npm/@easyops-cn%2fdocusaurus-search-local/0.51.1/0.52.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;easyops-cn/docusaurus-search-local
+(@&amp;#8203;easyops-cn/docusaurus-search-local)&lt;/summary&gt;
+
+###
+[`v0.52.0`](https://redirect.github.com/easyops-cn/docusaurus-search-local/releases/tag/v0.52.0)
+
+[Compare
+Source](https://redirect.github.com/easyops-cn/docusaurus-search-local/compare/v0.51.1...v0.52.0)
+
+##### Features
+
+- Add configurable keyboard shortcut for search bar focus
+([92b32ee](https://redirect.github.com/easyops-cn/docusaurus-search-local/commit/92b32ee0ba0ee63664b3ae2cae9aa92b433025cf)),
+closes
+[#&amp;#8203;516](https://redirect.github.com/easyops-cn/docusaurus-search-local/issues/516)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/dotnet/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Co-authored-by: Christoph Bühler &lt;buehler@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da87c2</div>
+                                        <div class="message">chore: remove github packages deployment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd842a8</div>
+                                        <div class="message">chore: remove old release config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe9bbd6</div>
+                                        <div class="message">chore: add semantic release pre-release on main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8269e5</div>
+                                        <div class="message">chore: update to .net foundation project (#920)
+
+Update fileheaders and incorporate changes to
+adhere to .net foundation repo template.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f61526f</div>
+                                        <div class="message">feat(client): Add Patch functionality and patch creation (#919)
+
+To easily patch kubernetes objects and entites,
+the IKubernetesClient now also supports patch (in
+many variants). Which internally creates a JSON Patch
+and encapsulates it into a V1Patch object (json patch).
+
+This closes #559.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2681965</div>
+                                        <div class="message">feat(caching): introduce FusionCache for flexible L1/L2 caching (#914)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06fc79e</div>
+                                        <div class="message">docs: update links to repo/docs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d28b623</div>
+                                        <div class="message">docs(license): update lic to show .net foundation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b3d531</div>
+                                        <div class="message">docs: update code of conduct and add .net foundation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31f9d98</div>
+                                        <div class="message">chore(deps): update dependency xunit.runner.visualstudio to 3.1.2 (#917)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+|
+[xunit.runner.visualstudio](https://redirect.github.com/xunit/visualstudio.xunit)
+| `3.1.1` -&gt; `3.1.2` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/xunit.runner.visualstudio/3.1.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/xunit.runner.visualstudio/3.1.1/3.1.2?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;xunit/visualstudio.xunit (xunit.runner.visualstudio)&lt;/summary&gt;
+
+###
+[`v3.1.2`](https://redirect.github.com/xunit/visualstudio.xunit/compare/3.1.1...3.1.2)
+
+[Compare
+Source](https://redirect.github.com/xunit/visualstudio.xunit/compare/3.1.1...3.1.2)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/buehler/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36c7343</div>
+                                        <div class="message">chore(deps): update dependency fluentassertions to 8.5.0 (#916)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+|
+[FluentAssertions](https://xceed.com/products/unit-testing/fluent-assertions/)
+([source](https://redirect.github.com/fluentassertions/fluentassertions))
+| `8.4.0` -&gt; `8.5.0` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/FluentAssertions/8.5.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/FluentAssertions/8.4.0/8.5.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;fluentassertions/fluentassertions (FluentAssertions)&lt;/summary&gt;
+
+###
+[`v8.5.0`](https://redirect.github.com/fluentassertions/fluentassertions/releases/tag/8.5.0)
+
+[Compare
+Source](https://redirect.github.com/fluentassertions/fluentassertions/compare/8.4.0...8.5.0)
+
+&lt;!-- Release notes generated using configuration in .github/release.yml
+at main --&gt;
+
+#### What's Changed
+
+##### New features
+
+- Extended BeEquivalentTo with support for checking the type of the
+properties by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/3066](https://redirect.github.com/fluentassertions/fluentassertions/pull/3066)
+
+##### Fixes
+
+- Ensured WithTracing is safe when used with BeEquivalentTo globally by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/3067](https://redirect.github.com/fluentassertions/fluentassertions/pull/3067)
+
+##### Others
+
+- Revisit the .editorconfig rules by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/3063](https://redirect.github.com/fluentassertions/fluentassertions/pull/3063)
+- Bump cspell from 9.1.1 to 9.1.2 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot)\[bot]
+in[https://github.com/fluentassertions/fluentassertions/pull/3068](https://redirect.github.com/fluentassertions/fluentassertions/pull/3068)8
+- Use .NET 9 SDK by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/3069](https://redirect.github.com/fluentassertions/fluentassertions/pull/3069)
+- Bump cspell from 9.1.2 to 9.1.3 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot)\[bot]
+in[https://github.com/fluentassertions/fluentassertions/pull/3071](https://redirect.github.com/fluentassertions/fluentassertions/pull/3071)1
+
+**Full Changelog**:
+https://github.com/fluentassertions/fluentassertions/compare/8.4.0...8.5.0
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/buehler/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#837a1d5</div>
+                                        <div class="message">chore(deps): update dependency microsoft.aspnetcore.mvc.testing to 9.0.7 (#915)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Confidence |
+|---|---|---|---|
+| [Microsoft.AspNetCore.Mvc.Testing](https://asp.net/)
+([source](https://redirect.github.com/dotnet/aspnetcore)) | `9.0.6` -&gt;
+`9.0.7` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.AspNetCore.Mvc.Testing/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.AspNetCore.Mvc.Testing/9.0.6/9.0.7?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/aspnetcore (Microsoft.AspNetCore.Mvc.Testing)&lt;/summary&gt;
+
+###
+[`v9.0.7`](https://redirect.github.com/dotnet/aspnetcore/compare/v9.0.6...v9.0.7)
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - "after 9pm,before 6am" in timezone
+Europe/Zurich, Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Enabled.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/buehler/dotnet-operator-sdk).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiI0MS4yMy4yIiwidXBkYXRlZEluVmVyIjoiNDEuMjMuMiIsInRhcmdldEJyYW5jaCI6Im1haW4iLCJsYWJlbHMiOlsiZGVwZW5kZW5jaWVzIl19--&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65121d1</div>
+                                        <div class="message">feat(templates): update templates to contain crd installer (#913)
+
+Update the templates to add and contain CrdInstaller by default. But
+without the destructive settings enabled.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52acb10</div>
+                                        <div class="message">feat(operator build): allow disable / force / onlyonrelease for operator config (#912)
+
+This closes #699.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c6ba4a6</div>
+                                        <div class="message">feat(operator): add CRD installer utility for development purposes (#908)
+
+Signed-off-by: Christoph Bühler &lt;christoph.buehler@unisg.ch&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e86ea83</div>
+                                        <div class="message">feat: add KubernetesJson wrapper that allows more deserialize options (#907)
+
+Signed-off-by: Christoph Bühler &lt;christoph.buehler@unisg.ch&gt;</div>
                                     </div>
                                 </div>
                             </section>
