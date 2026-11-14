@@ -1,0 +1,21 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "helpers:pinGitHubActionDigests"
+  ],
+  "labels": [
+    "dependencies"
+  ],
+  "enabledManagers": [
+    "github-actions"
+  ],
+  "automerge": true,
+  "platformAutomerge": false,
+  "ignoreTests": true,
+  "description": "No CI in this repository: a broken action only means a failed metrics run, so updates merge without tests.",
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "Dependency Dashboard",
+  "semanticCommits": "enabled",
+  "timezone": "Europe/Berlin"
+}
