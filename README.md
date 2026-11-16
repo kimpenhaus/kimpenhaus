@@ -42,6 +42,8 @@
     <img align="center" width="49%" src="https://github.com/kimpenhaus/kimpenhaus/raw/output/achievements.svg" />
 </a>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
