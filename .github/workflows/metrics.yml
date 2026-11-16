@@ -52,6 +52,7 @@ jobs:
           template: classic
           base: header
           config_timezone: Europe/Berlin
+          extras_css: "h1.field { display: none; }"
   lines:
     runs-on: ubuntu-latest
     permissions:
